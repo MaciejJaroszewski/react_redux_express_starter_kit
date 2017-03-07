@@ -1,0 +1,8 @@
+{
+  "name": "react_redux_express_starter_kit",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/MaciejJaroszewski/react_redux_express_starter_kit.git",
+  "author": "maciej.k.jaroszewski <maciej.k.jaroszewski@gmail.com>",
+  "license": "MIT"
+}
